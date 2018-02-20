@@ -42,7 +42,7 @@ public class RobotColorChooser {
 				for (int x = 0; x < 4; x++) {
 
 					rob.move(150);
-					rob.turn(360 / 4);
+					rob.turn(360 / 4); 
 				}
 			}
 		}
